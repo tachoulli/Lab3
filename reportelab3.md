@@ -24,7 +24,7 @@ Finalmente se implementó una función para determinar si el resultado obtenido 
 
 ## Evidencia
 
-![Ejercicio 1](ejercicio1.jpg)
+![Ejercicio 1](evidencia1.jpeg)
 
 ---
 
@@ -40,7 +40,7 @@ Los resultados obtenidos coincidieron con lo esperado.
 
 ## Evidencia
 
-![Ejercicio 2](ejercicio2.jpg)
+![Ejercicio 2](evidencia2.jpeg)
 
 ---
 
@@ -64,7 +64,7 @@ El programa funcionó correctamente con los datos de prueba ingresados.
 
 ## Evidencia
 
-![Ejercicio 3](ejercicio3.jpg)
+![Ejercicio 3](evidencia3.jpeg)
 
 ---
 
